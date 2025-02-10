@@ -2,6 +2,8 @@
 
 A beautiful, interactive social media card component with magical hover effects. Built with pure HTML, CSS, and JavaScript.
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/91d36891-3eb5-4f60-9862-e86f671c514f)
 
 
 ## ✨ Features
