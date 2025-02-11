@@ -197,7 +197,7 @@ body {
 .linkedin:hover .follow-btn {
     border-color: rgba(10, 102, 194, 0.5);
 }
-@media (min-width:600px) {
+@media (min-width:900px) {
     body{
         overflow-y: hidden;
     }
